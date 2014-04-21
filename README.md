@@ -18,5 +18,5 @@ Usage:
 ```
 
 
-*Tested on **iOS7** using **ARC**.*
+Tested on **iOS7** using **ARC**.
 
